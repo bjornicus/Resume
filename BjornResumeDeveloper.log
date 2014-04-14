@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.13)  13 APR 2014 15:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.13)  13 APR 2014 21:22
 entering extended mode
  %&-line parsing enabled.
 **BjornResumeDeveloper.tex
@@ -125,8 +125,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (./BjornResume
-Developer.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./BjornResumeDeve
+loper.aux) ) 
 Here is how much of TeX's memory you used:
  797 strings out of 495061
  10700 string characters out of 1182621
@@ -135,15 +135,15 @@ Here is how much of TeX's memory you used:
  11685 words of font info for 29 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  23i,4n,24p,593b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publi
-c/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhv
-r8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on BjornResumeDeveloper.pdf (4 pages, 96286 bytes).
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.
+pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on BjornResumeDeveloper.pdf (3 pages, 95576 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
