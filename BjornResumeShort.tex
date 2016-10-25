@@ -1,0 +1,172 @@
+\documentclass[11pt,oneside]{article}
+\usepackage{geometry}
+\usepackage{ifthen}
+%\usepackage[T1]{fontenc}
+
+\pagestyle{empty}
+\geometry{letterpaper,tmargin=0.75in,bmargin=0.75in,lmargin=0.75in,rmargin=0.75in,headheight=0in,headsep=0in,footskip=.3in}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{0in}
+\setlength{\itemsep}{0in}
+\setlength{\topsep}{0in}
+\setlength{\tabcolsep}{0in}
+
+% Name and contact information
+\newcommand{\name}{Bj\o rn Hansen}
+\newcommand{\address}{16630 NE 92ND ST\\ Redmond, WA 98052}
+\newcommand{\phone}{(425) 283-8374}
+\newcommand{\email}{holomorph@gmail.com}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% New commands and environments
+
+% This defines how the name looks
+\newcommand{\bigname}[1]{
+    \fontfamily{ppl}\selectfont\huge\scshape#1 \normalsize
+}
+
+% A ressection is a main section (<H1>Section</H1>)
+\newenvironment{ressection}[1]{
+	\vspace{4pt}
+	{\fontfamily{phv}\selectfont\Large#1}
+	\begin{itemize}
+	\vspace{3pt}
+}{
+	\end{itemize}
+}
+
+% A resitem is a simple list element in a ressection (first level)
+\newcommand{\resitem}[1]{
+	\vspace{-4pt}
+	\item \begin{flushleft} #1 \end{flushleft}
+}
+
+% A ressubitem is a simple list element in anything but a ressection (second level)
+\newcommand{\ressubitem}[1]{
+	\vspace{-1pt}
+	\item \begin{flushleft} #1 \end{flushleft}
+}
+
+% A resbigitem is a complex list element for stuff like jobs and education:
+%  Arg 1: Name of company or university
+%  Arg 2: Location
+%  Arg 3: Title and/or date range
+\newcommand{\resbigitem}[3]{
+	\vspace{-5pt}
+	\item
+	\ifthenelse{\equal{#3}{}}
+	{\textbf{#1}---#2 } % third argument is empty
+	{\textbf{#1}---#2 \\ \textit{#3} } 
+}
+
+% This is a list that comes with a resbigitem
+\newenvironment{ressubsec}[3]{
+	\resbigitem{#1}{#2}{#3}
+	\vspace{-2pt}
+	\begin{itemize}
+}{
+	\end{itemize}
+}
+
+% This is a simple sublist
+\newenvironment{reslist}[1]{
+	\resitem{\textbf{#1}}
+	\vspace{-5pt}
+	\begin{itemize}
+}{
+	\end{itemize}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Now for the actual document:
+\begin{document}
+\begin{center}
+\bigname{\name}
+\rule{\textwidth}{1pt}
+\email \\
+\phone \\
+\vspace{1pt}
+\address
+\end{center}
+
+\begin{ressection}{EDUCATION}
+    \begin{ressubsec}{University of Washington}{ Seattle, Washington, 2004 - 2007}
+    {Master of Science in Aeronautics and Astronautics}
+    \ressubitem{Depth Area of Study: Plasma Science}
+	\end{ressubsec}
+    \begin{ressubsec}{University of Victoria}{Victoria, British Columbia, 2000 - 2004}
+    {Bachelor of Science}
+    \resitem{Graduated with Distinction with a Major in Physics, and a Minor in Mathematics}
+	\end{ressubsec}
+\end{ressection}
+
+\begin{ressection}{EXPERIENCE}
+    \begin{ressubsec}{Microsoft, Microsoft Store Online}{September 2014 - Present}
+    {Software Engineer} 
+    \ressubitem{Develop new features for microsoftstore.com website.  Design, develop, and deploy new services to support site migration from third party platform.}
+    \end{ressubsec}
+    \begin{ressubsec}{Microsoft, Xbox One Flight}{January 2014 - September 2014}
+    {Software Developer in Test} 
+    \ressubitem{Developed feedback and registration apps for the Xbox One public preview program.}
+    \end{ressubsec}
+    \begin{ressubsec}{Microsoft, Xbox One Shell Core}{August 2010 - December 2013}
+    {Software Developer in Test} 
+    \ressubitem{Developed automated tests and core automation technology for the Xbox One.  Set up telemetry instrumentation for the overlay shell UI and automated analysis of the usage data.}
+    \ressubitem{Developed, as a self-initiated side project, a system for Beta users to report issues directly from the console and automatically gather supplemental data. This became the primary method for filing bugs leading up to, and post, release.  Partnered with developers across the console team to help them leverage this system. }
+    \end{ressubsec}
+    \begin{ressubsec}{Microsoft, Xbox 360 Foundation Test Tools}{August 2008 - August 2010}
+    {Software Developer in Test} 
+    \ressubitem{Developed and maintained tools to enable PC-driven automated testing of the Xbox 360 shell, including a UI automation library and test harness.  Successfully introduced unit testing, test driven development, and pair programming into my team.}
+    \ressubitem{Developed automated tests for Kinect-related shell features during the lead-up to Kinect launch.  }
+    \end{ressubsec}
+    \begin{ressubsec}{Volt at Microsoft, Xbox}{May 2008 - August 2008}
+    {Software Developer in Test} 
+    \ressubitem{Worked as part of the Xbox Foundation Team on development of the \lq\lq{}Test Case Scheduler\rq\rq{} test harness, which runs automated test cases and auto-files bugs.  Also worked with team members on the UI automation technology.}
+    \end{ressubsec}
+    \begin{ressubsec}{Volt at Microsoft, Natural Language Group}{ August 2007 - May 2008}
+    {Software Developer in Test} 
+    \ressubitem{Developed automated tests to verify functionality of proofing tools, primarily the speller engine.}
+    \end{ressubsec}
+    \begin{ressubsec}{University of Washington, RPPL}{ Redmond, Washington, September 2004 - August, 2007}
+    {Research Assistant}
+    \ressubitem{Worked on an Innovative Confinement Concept device for magnetically confined fusion plasmas at the Redmond
+    Plasma Physics Laboratory. Primary projects included design, implementation, and documentation of the software controlling the glow discharge, heating, and vacuum systems.}
+	\end{ressubsec}
+\end{ressection}
+
+%\newpage
+
+\begin{ressection}{SKILLS}
+    \begin{reslist}{ Languages}
+\ressubitem{C++, C\#, Python, cmd scripts,  Java, Javascript, Perl, SQL}
+    \end{reslist}
+    \begin{reslist}{ Software}
+\ressubitem{Development Environments: Visual Studio, Arduino, LabVIEW, Vim, Sublime}
+\ressubitem{Web Platforms: ASP.Net, Node.js}
+\ressubitem{Debugging: Visual Studio Debugger, kd, gdb, pdb}
+\ressubitem{Testing Frameworks: mstest, Nunit, xUnit, pyunit}
+\ressubitem{Version Control: git, TFS, CVS, SubVersion, Bazaar, Source Depot}
+\ressubitem{Mathematics: Matlab, SciPy, Pylab, Maxima, Mathematica}
+\ressubitem{Graphics: Gimp, Inkscape, Blender}
+\ressubitem{System Installation and Administration: Windows, Linux}
+    \end{reslist}
+  \begin{reslist}{Agile Development}
+    \ressubitem{Test Driven Development}
+    \ressubitem{Pair Programming}
+    \ressubitem{Familiar with Scrum, Kanban}
+    \end{reslist}
+\resitem{Strong physics and mathematics background}
+\resitem{Experienced with shop tools and carpentry}
+\resitem{Design and construction (wiring and soldering) of simple electrical systems}
+\resitem{Enjoy working with a team}
+\resitem{Adept self-teacher}
+\end{ressection}
+
+\begin{ressection}{HOBBIES AND INTERESTS}
+\resitem{Building things, learning, game programming, 3D modelling, experimenting with and contributing to, open source software, space, sustainable energy, home improvement, cooking, gardening, pottery, drawing, and playing games of all sorts (athletic, board, and computer based).}
+\end{ressection}
+
+\end{document}
