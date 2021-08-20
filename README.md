@@ -14,15 +14,20 @@ Bachelor of Science
 # EXPERIENCE
 * Hoylu - March 2020 - Present
   Senior Software Development Engineer & Engineering Manager
-    - 
+    - Lead the creation of a scalable service platform built on Hashicorp consul, nomad, and vaut using immutable infrasructure
+    - Maintain and evolve engineering platform (Azure dev ops pipelines and build/release agents)
+    - Design and author new microservices, refactor, maintain, and opperate existing services
+    - Participate in work and capacity planning
+    - Goal setting and 1-1s with reports
+    - Mentor other engineers
 * Hoylu - March 2017 - March 2020
   Senior Software Development Engineer
     - Added remote collaboration features to existing windows native digital whiteboard and sticky note apps and create web versions of same apps
       - Use infrastructure as code (ansible) to provision virtual machines and surrounding infrastructure and deploy dockerized services
-      - Write and dockerize services
+      - Design and author containerized services
       - Create CI and CD pipelines
       - Operate and monitor services
-    - Create the new Hoylu app using a common code base and combining whiteboard and sticky note funtionality
+    - Create the new Hoylu app using a shared code base across web and native and combining whiteboard and sticky note funtionality
     - Mentor Jr engineers and interns
 * Microsoft, Microsoft Store Online - September 2014 - March 2017
 Software Engineer
