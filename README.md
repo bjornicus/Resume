@@ -21,7 +21,7 @@ __University of Victoria__ - Victoria, British Columbia
 *Senior Software Development Engineer* - _Hoylu_
   - Design and author new microservices
   - Refactor, maintain, test, and monitor existing services
-  - Maintain, and evolve engineering platform (Azure DevOps CI/CD pipelines and agents)
+  - Maintain and evolve engineering platform (Azure DevOps CI/CD pipelines and agents)
   - Mentor junior engineers and interns
   - Implement security controls for FedRAMP certification effort
   - Added remote collaboration features to existing Windows native digital whiteboard and sticky note apps; created web versions of those apps
