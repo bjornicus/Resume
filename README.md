@@ -17,6 +17,7 @@ Bachelor of Science
     - Lead the creation of a scalable service platform built on Hashicorp consul, nomad, and vaut using immutable infrasructure
     - Maintain and evolve engineering platform (Azure dev ops pipelines and build/release agents)
     - Design and author new microservices, refactor, maintain, and opperate existing services
+    - Implement security compliance features for FedRAMP certification effort.
     - Participate in work and capacity planning
     - Goal setting and 1-1s with reports
     - Mentor other engineers
