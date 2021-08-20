@@ -40,7 +40,7 @@ __University of Victoria__ - Victoria, British Columbia
   - Develop new features for microsoftstore.com website. Design, develop, and deploy new services
 to support site migration from third party platform.
   - Develop features for microsoft.com/store website, including product detail pages for the
-physical goods and the shopping cart. Shopping cart is a single page (ember) application.
+physical goods and the shopping cart. Shopping cart is a single page (Ember.js) application.
 
 `Jan 2014 - Sept 2014`
 *Software Developer in Test* - __Microsoft, Xbox One Flight__ 
