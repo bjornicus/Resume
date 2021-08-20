@@ -21,14 +21,14 @@ __University of Victoria__ - Victoria, British Columbia
 *Senior Software Development Engineer* - _Hoylu_
   - Design and author new microservices
   - Refactor, maintain, test, and monitor existing services
-  - Create, maintain, and evolve engineering platform (Azure DevOps CI/CD pipelines and agents)
+  - Maintain, and evolve engineering platform (Azure DevOps CI/CD pipelines and agents)
   - Mentor junior engineers and interns
   - Implement security controls for FedRAMP certification effort
   - Added remote collaboration features to existing Windows native digital whiteboard and sticky note apps; created web versions of those apps
   - Used infrastructure as code (Ansible) to provision virtual machines and surrounding infrastructure and deployed dockerized services
   - Architected and built Navigator mobile app for Holland America
   - Created the new Hoylu app that combined whiteboard and sticky note functionality using a shared code base across web and native
-  - Lead the creation of a scalable service platform built on HashiCorp Consul, Nomad, and Vault using immutable infrastructure and infrastructure as code.
+  - Lead the creation of a new scalable service platform built on HashiCorp Consul, Nomad, and Vault using immutable infrastructure and infrastructure as code; design and implement migration plan moving from old adtic infrastructure to the new platform.
   
 `March 2020 - Present`
 *Engineering Manager* - _Hoylu_
