@@ -14,59 +14,65 @@ Bachelor of Science
   - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
 ### EXPERIENCE
-* __Hoylu__ - March 2020 - Present  
-  *Senior Software Development Engineer & Engineering Manager*
-    - Lead the creation of a scalable service platform built on Hashicorp consul, nomad, and vaut using immutable infrasructure
-    - Maintain and evolve engineering platform (Azure dev ops pipelines and build/release agents)
-    - Design and author new microservices; refactor, maintain, and opperate existing services
-    - Implement security compliance features for FedRAMP certification effort.
-    - Participate in work planning
-    - Goal setting and 1-1s with reports
-    - Mentor other engineers
-* __Hoylu__ - March 2017 - March 2020  
-  *Senior Software Development Engineer*
-    - Added remote collaboration features to existing windows native digital whiteboard and sticky note apps and create web versions of same apps
-      - Use infrastructure as code (ansible) to provision virtual machines and surrounding infrastructure and deploy dockerized services
-      - Design and author containerized services
-      - Create CI and CD pipelines
-      - Operate and monitor services
-    - Create the new Hoylu app using a shared code base across web and native and combining whiteboard and sticky note funtionality
-    - Mentor Jr engineers and interns
-* __Microsoft, Microsoft Store Online__ - September 2014 - March 2017 
-*Software Engineer*
+`March 2017 - Present`  
+*Senior Software Development Engineer* - _Hoylu_
+  - Added remote collaboration features to existing windows native digital whiteboard and sticky note apps and create web versions of same apps
+    - Use infrastructure as code (ansible) to provision virtual machines and surrounding infrastructure and deploy dockerized services
+    - Design and author containerized services
+    - Create CI and CD pipelines
+    - Operate and monitor services
+  - Create the new Hoylu app using a shared code base across web and native and combining whiteboard and sticky note funtionality
+  - Mentor junior engineers and interns
+  - Lead the creation of a scalable service platform built on Hashicorp consul, nomad, and vaut using immutable infrasructure
+  - Maintain and evolve engineering platform (Azure dev ops pipelines and build/release agents)
+  - Design and author new microservices; refactor, maintain, and opperate existing services
+  - Implement security controls for FedRAMP certification effort
+  
+*Engineering Manager* - _Hoylu_
+  - Participate in work planning
+  - Goal setting and 1-1s with reports
+  
+`September 2014 - March 2017`  
+*Software Engineer* - __Microsoft, Microsoft Store Online__
   - Develop new features for microsoftstore.com website. Design, develop, and deploy new services
 to support site migration from third party platform.
   - Develop features for microsoft.com/store website, including product detail pages for the
 physical goods and the shopping cart. Shopping cart is a single page (ember) application.
-* __Microsoft, Xbox One Flight__ - January 2014 - September 2014  
-*Software Developer in Test*
+
+`January 2014 - September 2014`  
+*Software Developer in Test* - __Microsoft, Xbox One Flight__ 
   - Developed feedback and registration apps for the Xbox One public preview program.
-* __Microsoft, Xbox One Shell Core__ - August 2010 - December 2013  
-*Software Developer in Test*
+  
+`August 2010 - December 2013`  
+*Software Developer in Test* - __Microsoft, Xbox One Shell Core__ 
   - Developed automated tests and core automation technology for the Xbox One. Set up
 telemetry instrumentation for the overlay shell UI and automated analysis of the usage data.
   - Developed, as a self-initiated side project, a system for Beta users to report issues directly
 from the console and automatically gather supplemental data. This became the primary
 method for filing bugs leading up to, and post, release. Partnered with developers across the
 console team to help them leverage this system.
-* __Microsoft, Xbox 360 Foundation Test Tools__ - August 2008 - August 2010  
-*Software Developer in Test*
+
+`August 2008 - August 2010`  
+*Software Developer in Test* - __Microsoft, Xbox 360 Foundation Test Tools__
   - Developed and maintained tools to enable PC-driven automated testing of the Xbox 360 shell,
 including a UI automation library and test harness. Successfully introduced unit testing, test
 driven development, and pair programming into my team.
   - Developed automated tests for Kinect-related shell features during the lead-up to Kinect
 launch.
-* __Volt at Microsoft, Xbox__ - May 2008 - August 2008  
-*Software Developer in Test*
+
+`May 2008 - August 2008`  
+*Software Developer in Test* - __Volt at Microsoft, Xbox__
   - Worked as part of the Xbox Foundation Team on development of the “Test Case Scheduler”
 test harness, which runs automated test cases and auto-files bugs. Also worked with team
 members on the UI automation technology.
-* __Volt at Microsoft, Natural Language Group__ -  August 2007 - May 2008  
-*Software Developer in Test*
+
+`August 2007 - May 2008`  
+*Software Developer in Test* - __Volt at Microsoft, Natural Language Group__
   - Developed automated tests to verify functionality of proofing tools, primarily the speller
 engine.
-* __University of Washington, RPPL__ - September 2004 - August, 2007  
-*Research Assistant*
+
+`September 2004 - August, 2007`  
+*Research Assistant* - __University of Washington, RPPL__ 
   - Worked on an Innovative Confinement Concept device for magnetically confined fusion
 plasmas at the Redmond Plasma Physics Laboratory. Primary projects included design,
 implementation, and documentation of the software controlling the glow discharge, heating,
