@@ -12,9 +12,18 @@ Bachelor of Science
   - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
 # EXPERIENCE
-* Hoylu - March 2017 - Present
+* Hoylu - March 2020 - Present
   Senior Software Development Engineer & Engineering Manager
-    - did stuff
+    - 
+* Hoylu - March 2017 - March 2020
+  Senior Software Development Engineer
+    - Added remote collaboration features to existing windows native digital whiteboard and sticky note apps and create web versions of same apps
+      - Use infrastructure as code (ansible) to provision virtual machines and surrounding infrastructure and deploy dockerized services
+      - Write and dockerize services
+      - Create CI and CD pipelines
+      - Operate and monitor services
+    - Create the new Hoylu app using a common code base and combining whiteboard and sticky note funtionality
+    - Mentor Jr engineers and interns
 * Microsoft, Microsoft Store Online - September 2014 - March 2017
 Software Engineer
   - Develop new features for microsoftstore.com website. Design, develop, and deploy new services
@@ -59,6 +68,8 @@ and vacuum systems.
 * Languages
   - C++, C#, Kotlin, Javascript, Typescript, Python, cmd and bash scripts
 * Software
+  - Infrastructure as code: Ansible, Terraform, Packer
+  - SAAS platform: Azure, Hashicorp tools (Consul, Nomad, Vault, Boudary), Elastic Search, Prometheus, Grafana, Launch Darkly, Datadog
   - Development Environments: Visual Studio, Visual Studio Code, Rider, IntelliJ, Arduino
   - Web Platforms: ASP.Net, Node.js, ktor
   - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ada
