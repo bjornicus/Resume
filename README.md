@@ -92,7 +92,7 @@ and vacuum systems.
   - Cross-platform frameworks: Electron, Cordova
   - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ava
   - Version Control: git & others
-  - Mathematics: Matlab, SciPy, Pylab, Maxima, Mathematica
+  - Mathematics: Matlab, SciPy, Mathematica
   - System Installation and Administration: Windows, Linux
 * Agile Development
   - Test Driven Development
