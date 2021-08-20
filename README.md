@@ -17,7 +17,7 @@ __University of Victoria__ - Victoria, British Columbia
   - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
 ### EXPERIENCE
-`March 2017 - Present`
+`Mar 2017 - Now`
 *Senior Software Development Engineer* - _Hoylu_
   - Design and author new microservices
   - Refactor, maintain, test, and monitor existing services
@@ -30,12 +30,12 @@ __University of Victoria__ - Victoria, British Columbia
   - Created the new Hoylu app that combined whiteboard and sticky note functionality using a shared code base across web and native
   - Lead the creation of a new scalable service platform built on HashiCorp Consul, Nomad, and Vault using immutable infrastructure and infrastructure as code; design and implement migration plan moving from old static infrastructure to the new platform.
   
-`March 2020 - Present`
+`Mar 2020 - Now`
 *Engineering Manager* - _Hoylu_
   - Participate in work planning
   - Goal setting and 1-1s with reports
   
-`Sept 2014 - March 2017`
+`Sept 2014 - Mar 2017`
 *Software Engineer* - __Microsoft, Microsoft Store Online__
   - Develop new features for microsoftstore.com website. Design, develop, and deploy new services
 to support site migration from third party platform.
