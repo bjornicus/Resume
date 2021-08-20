@@ -1,7 +1,7 @@
 
-BJØRN HANSEN
-HOLOMORPH@GMAIL.COM
-425-283-8374
+BJØRN HANSEN  
+HOLOMORPH@GMAIL.COM  
+425-283-8374  
 
 # EDUCATION
 * University of Washington - Seattle, Washington, 2004 - 2007
@@ -16,9 +16,9 @@ Bachelor of Science
   Senior Software Development Engineer & Engineering Manager
     - Lead the creation of a scalable service platform built on Hashicorp consul, nomad, and vaut using immutable infrasructure
     - Maintain and evolve engineering platform (Azure dev ops pipelines and build/release agents)
-    - Design and author new microservices, refactor, maintain, and opperate existing services
+    - Design and author new microservices; refactor, maintain, and opperate existing services
     - Implement security compliance features for FedRAMP certification effort.
-    - Participate in work and capacity planning
+    - Participate in work planning
     - Goal setting and 1-1s with reports
     - Mentor other engineers
 * Hoylu - March 2017 - March 2020  
@@ -87,12 +87,10 @@ and vacuum systems.
   - Pair and Mob Programming
   - Familiar with Scrum and Kanban
 * Strong physics and mathematics background
-* Experienced with shop tools and carpentry
 * Design and construction (wiring and soldering) of simple electrical systems
 * Enjoy working with a team
 * Adept self-teacher
 
 # HOBBIES AND INTERESTS
-* Building things, learning, game programming, 3D modelling, experimenting with and contributing
-to, open source software, space, sustainable energy, home improvement, cooking, gardening,
-pottery, drawing, and playing games of all sorts (athletic, board, and computer based).
+* Building things, learning, coaching,
+pottery, drawing, playing games of all sorts (athletic, board, and computer based), creating games (board and computer based), space, sustainable energy, home improvement, cooking, gardening.
