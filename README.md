@@ -12,7 +12,9 @@ Bachelor of Science
   - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
 # EXPERIENCE
-* Hoylu 
+* Hoylu - March 2017 - Present
+  Senior Software Development Engineer & Engineering Manager
+    - did stuff
 * Microsoft, Microsoft Store Online - September 2014 - March 2017
 Software Engineer
   - Develop new features for microsoftstore.com website. Design, develop, and deploy new services
@@ -55,20 +57,18 @@ and vacuum systems.
 
 # SKILLS
 * Languages
-  - C++, C#, Python, cmd scripts, Java, Javascript, Perl, SQL
+  - C++, C#, Kotlin, Javascript, Typescript, Python, cmd and bash scripts
 * Software
-  - Development Environments: Visual Studio, Arduino, LabVIEW, Vim, Sublime
-  - Web Platforms: ASP.Net, Node.js
-  - Debugging: Visual Studio Debugger, kd, gdb, pdb
-  - Testing Frameworks: mstest, Nunit, xUnit, pyunit, mocha, jasmine, qunit
-  - Version Control: git, TFS, CVS, SubVersion, Bazaar, Source Depot
+  - Development Environments: Visual Studio, Visual Studio Code, Rider, IntelliJ, Arduino
+  - Web Platforms: ASP.Net, Node.js, ktor
+  - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ada
+  - Version Control: git & others
   - Mathematics: Matlab, SciPy, Pylab, Maxima, Mathematica
-  - Graphics: Gimp, Inkscape, Blender
   - System Installation and Administration: Windows, Linux
 * Agile Development
   - Test Driven Development
-  - Pair Programming
-  - Familiar with Scrum, Kanban
+  - Pair and Mob Programming
+  - Familiar with Scrum and Kanban
 * Strong physics and mathematics background
 * Experienced with shop tools and carpentry
 * Design and construction (wiring and soldering) of simple electrical systems
