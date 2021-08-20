@@ -88,8 +88,9 @@ and vacuum systems.
   - Infrastructure as code: Ansible, Terraform, Packer
   - SAAS platform: Azure, HashiCorp tools (Consul, Nomad, Vault, Boudary), Elastic Search, Prometheus, Grafana, Launch Darkly, Datadog
   - Development Environments: Visual Studio, Visual Studio Code, Rider, IntelliJ, Arduino
-  - Web Platforms: ASP.Net, Node.js, ktor
-  - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ada
+  - Web Platforms: ASP.Net, Node.js, ktor, nginx
+  - Cross-platform frameworks: Elecrtron, Cordova
+  - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ava
   - Version Control: git & others
   - Mathematics: Matlab, SciPy, Pylab, Maxima, Mathematica
   - System Installation and Administration: Windows, Linux
