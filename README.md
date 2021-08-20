@@ -27,8 +27,8 @@ __University of Victoria__ - Victoria, British Columbia
   - Added remote collaboration features to existing Windows native digital whiteboard and sticky note apps; created web versions of those apps
   - Used infrastructure as code (Ansible) to provision virtual machines and surrounding infrastructure and deployed dockerized services
   - Architected and built Navigator mobile app for Holland America
-  - Created the new Hoylu app that combined whiteboard and sticky note funtionality using a shared code base across web and native
-  - Lead the creation of a scalable service platform built on HashiCorp Consul, Nomad, and Vaut using immutable infrasructure and infrastructure as code.
+  - Created the new Hoylu app that combined whiteboard and sticky note functionality using a shared code base across web and native
+  - Lead the creation of a scalable service platform built on HashiCorp Consul, Nomad, and Vault using immutable infrastructure and infrastructure as code.
   
 `March 2020 - Present`
 *Engineering Manager* - _Hoylu_
@@ -83,13 +83,13 @@ and vacuum systems.
 
 ### SKILLS
 * Languages
-  - C++, C#, Kotlin, Javascript, Typescript, Python, cmd and bash scripts
+  - C++, C#, Kotlin, JavaScript, Typescript, Python, cmd and bash scripts
 * Software
   - Infrastructure as code: Ansible, Terraform, Packer
-  - SAAS platform: Azure, HashiCorp tools (Consul, Nomad, Vault, Boudary), Elastic Search, Prometheus, Grafana, Launch Darkly, Datadog
+  - SAAS platform: Azure, HashiCorp tools (Consul, Nomad, Vault, Boundary), Elastic Search, Prometheus, Grafana, Launch Darkly, Datadog
   - Development Environments: Visual Studio, Visual Studio Code, Rider, IntelliJ, Arduino
   - Web Platforms: ASP.Net, Node.js, ktor, nginx
-  - Cross-platform frameworks: Elecrtron, Cordova
+  - Cross-platform frameworks: Electron, Cordova
   - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ava
   - Version Control: git & others
   - Mathematics: Matlab, SciPy, Pylab, Maxima, Mathematica
