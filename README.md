@@ -18,7 +18,8 @@ __University of Victoria__ - Victoria, British Columbia
 
 ### EXPERIENCE
 `Mar 2017 - Now`
-*Senior Software Development Engineer* - _Hoylu_
+__Hoylu__  
+*Senior Software Development Engineer*  
   - Design and author new microservices
   - Refactor, maintain, test, and monitor existing services
   - Maintain and evolve engineering platform (Azure DevOps CI/CD pipelines and agents)
@@ -31,23 +32,27 @@ __University of Victoria__ - Victoria, British Columbia
   - Lead the creation of a new scalable service platform built on HashiCorp Consul, Nomad, and Vault using immutable infrastructure and infrastructure as code; design and implement migration plan moving from old static infrastructure to the new platform.
   
 `Mar 2020 - Now`
-*Engineering Manager* - _Hoylu_
+__Hoylu__  
+*Engineering Manager*  
   - Participate in work planning
   - Goal setting and 1-1s with reports
   
 `Sept 2014 - Mar 2017`
-*Software Engineer* - __Microsoft, Microsoft Store Online__
+__Microsoft, Microsoft Store Online__  
+*Software Engineer*  
   - Develop new features for microsoftstore.com website. Design, develop, and deploy new services
 to support site migration from third party platform.
   - Develop features for microsoft.com/store website, including product detail pages for the
 physical goods and the shopping cart. Shopping cart is a single page (Ember.js) application.
 
 `Jan 2014 - Sept 2014`
-*Software Developer in Test* - __Microsoft, Xbox One Flight__ 
+__Microsoft, Xbox One Flight__  
+*Software Developer in Test*  
   - Developed feedback and registration apps for the Xbox One public preview program.
   
 `Aug 2010 - Dec 2013`
-*Software Developer in Test* - __Microsoft, Xbox One Shell Core__ 
+__Microsoft, Xbox One Shell Core__  
+*Software Developer in Test*  
   - Developed automated tests and core automation technology for the Xbox One. Set up
 telemetry instrumentation for the overlay shell UI and automated analysis of the usage data.
   - Developed, as a self-initiated side project, a system for Beta users to report issues directly
@@ -56,7 +61,8 @@ method for filing bugs leading up to, and post, release. Partnered with develope
 console team to help them leverage this system.
 
 `Aug 2008 - Aug 2010`
-*Software Developer in Test* - __Microsoft, Xbox 360 Foundation Test Tools__
+__Microsoft, Xbox 360 Foundation Test Tools__  
+*Software Developer in Test*  
   - Developed and maintained tools to enable PC-driven automated testing of the Xbox 360 shell,
 including a UI automation library and test harness. Successfully introduced unit testing, test
 driven development, and pair programming into my team.
@@ -64,18 +70,21 @@ driven development, and pair programming into my team.
 launch.
 
 `May 2008 - Aug 2008`
-*Software Developer in Test* - __Volt at Microsoft, Xbox__
+*Software Developer in Test*  
+__Volt at Microsoft, Xbox__  
   - Worked as part of the Xbox Foundation Team on development of the “Test Case Scheduler”
 test harness, which runs automated test cases and auto-files bugs. Also worked with team
 members on the UI automation technology.
 
 `Aug 2007 - May 2008`
-*Software Developer in Test* - __Volt at Microsoft, Natural Language Group__
+__Volt at Microsoft, Natural Language Group__  
+*Software Developer in Test*  
   - Developed automated tests to verify functionality of proofing tools, primarily the speller
 engine.
 
 `Sept 2004 - Aug, 2007`
-*Research Assistant* - __University of Washington, RPPL__ 
+__University of Washington, RPPL__  
+*Research Assistant*  
   - Worked on an Innovative Confinement Concept device for magnetically confined fusion
 plasmas at the Redmond Plasma Physics Laboratory. Primary projects included design,
 implementation, and documentation of the software controlling the glow discharge, heating,
@@ -104,5 +113,5 @@ and vacuum systems.
 * Adept self-teacher
 
 ### HOBBIES AND INTERESTS
-* Building things, learning, coaching,
+Building things, learning, coaching,
 pottery, drawing, playing games of all sorts (athletic, board, and computer based), creating games (board and computer based), space, sustainable energy, home improvement, cooking, gardening.
