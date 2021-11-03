@@ -66,7 +66,7 @@ __Volt at Microsoft__
 test harness, which runs automated test cases and auto-files bugs. Also worked with team
 members on the UI automation technology.
 
-`Aug 2007 - May 2008`  
+`Aug 2007 - May 2008`
 *Software Developer in Test - Natural Language Group*  
   - Developed automated tests to verify functionality of proofing tools, primarily the speller
 engine.
