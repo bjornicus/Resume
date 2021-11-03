@@ -25,7 +25,6 @@ __Hoylu__
   - Mentor junior engineers and interns
   - Implement security controls for FedRAMP certification effort
   - Added remote collaboration features to existing Windows native digital whiteboard and sticky note apps; created web versions of those apps
-  - Used infrastructure as code (Ansible) to provision virtual machines and surrounding infrastructure and deployed dockerized services
   - Architected and built Navigator mobile app for Holland America
   - Created the new Hoylu app that combined whiteboard and sticky note functionality using a shared code base across web and native
   - Lead the creation of a new scalable service platform built on HashiCorp Consul, Nomad, and Vault using immutable infrastructure and infrastructure as code; design and implement migration plan moving from old static infrastructure to the new platform.
@@ -54,8 +53,8 @@ console team to help them leverage this system.
 `Aug 2008 - Aug 2010`
 *Software Developer in Test - Xbox 360 Foundation Test Tools*  
   - Developed and maintained tools to enable PC-driven automated testing of the Xbox 360 shell,
-including a UI automation library and test harness. Successfully introduced unit testing, test
-driven development, and pair programming into my team.
+including a UI automation library and test harness. Introduced unit testing, test
+driven development, and pair programming into the team.
   - Developed automated tests for Kinect-related shell features during the lead-up to Kinect
 launch.
 
@@ -75,9 +74,7 @@ __University of Washington__
 `Sept 2004 - Aug, 2007`
 *Research Assistant - Redmond Plasma Physics Lab*  
   - Worked on an Innovative Confinement Concept device for magnetically confined fusion
-plasmas at the Redmond Plasma Physics Laboratory. Primary projects included design,
-implementation, and documentation of the software controlling the glow discharge, heating,
-and vacuum systems.
+plasmas at the Redmond Plasma Physics Laboratory.
 
 ### SKILLS
 * Languages
@@ -85,17 +82,11 @@ and vacuum systems.
 * Software
   - Infrastructure as code: Ansible, Terraform, Packer
   - SAAS platform: Azure, HashiCorp tools (Consul, Nomad, Vault, Boundary), Elastic Search, Prometheus, Grafana, Launch Darkly, Datadog
-  - Development Environments: Visual Studio, Visual Studio Code, Rider, IntelliJ, Arduino
   - Web Platforms: ASP.Net, Node.js, ktor, nginx
   - Cross-platform frameworks: Electron, Cordova
   - Testing Frameworks: MStest, Nunit, xUnit, pyunit, mocha, jasmine, jest, ava
   - Version Control: git & others
-  - Mathematics: Matlab, SciPy, Mathematica
-  - System Installation and Administration: Windows, Linux
-* Agile Development
-  - Test Driven Development
-  - Pair and Mob Programming
-  - Familiar with Scrum and Kanban
+* Agile Development: Test Driven Development, Pair and Mob Programming, Scrum and Kanban
 * Strong physics and mathematics background
 * Design and construction (wiring and soldering) of simple electrical systems
 * Enjoy working with a team
