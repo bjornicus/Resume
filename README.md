@@ -5,16 +5,6 @@ title: Bjørn Hansen's Resume
 BJØRN HANSEN  
 HOLOMORPH@GMAIL.COM  
 425-283-8374  
-### EDUCATION
-`2004 - 2007`
-__University of Washington__ - Seattle, Washington  
-*Master of Science in Aeronautics and Astronautics*
-  - Depth Area of Study: Plasma Science
-
-`2000 - 2004`
-__University of Victoria__ - Victoria, British Columbia  
-*Bachelor of Science*
-  - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
 ### EXPERIENCE
 
@@ -110,6 +100,17 @@ and vacuum systems.
 * Design and construction (wiring and soldering) of simple electrical systems
 * Enjoy working with a team
 * Adept self-teacher
+
+### EDUCATION
+`2004 - 2007`
+__University of Washington__ - Seattle, Washington  
+*Master of Science in Aeronautics and Astronautics*
+  - Depth Area of Study: Plasma Science
+
+`2000 - 2004`
+__University of Victoria__ - Victoria, British Columbia  
+*Bachelor of Science*
+  - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
 ### HOBBIES AND INTERESTS
 Building things, learning, coaching,
