@@ -46,7 +46,7 @@ physical goods and the shopping cart. Shopping cart is a single page (Ember.js) 
 *Software Developer in Test - Xbox One Shell Core*  
   - Developed automated tests and core automation technology for the Xbox One. Set up
 telemetry instrumentation for the overlay shell UI and automated analysis of the usage data.
-  - Developed, as a self-initiated side project, a system for Beta users to report issues directly
+  - Developed, as a self-initiated project, a system for Beta users to report issues directly
 from the console and automatically gather supplemental data. This became the primary
 method for filing bugs leading up to, and post, release. Partnered with developers across the
 console team to help them leverage this system.
