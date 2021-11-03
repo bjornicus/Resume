@@ -112,6 +112,6 @@ __University of Victoria__ - Victoria, British Columbia
 *Bachelor of Science*
   - Graduated with Distinction with a Major in Physics, and a Minor in Mathematics
 
-### HOBBIES AND INTERESTS
+### INTERESTS
 Building things, learning, coaching,
 pottery, drawing, playing games of all sorts (athletic, board, and computer based), creating games (board and computer based), space, sustainable energy, home improvement, cooking, gardening.
